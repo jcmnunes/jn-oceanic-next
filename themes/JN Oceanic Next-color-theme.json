@@ -1,0 +1,12 @@
+{
+	"tokenColors": "./Oceanic_Next_dimmed.tmTheme",
+	"colors": {
+		"editor.background": "#1d2225",
+		"editorCursor.foreground": "#c0c5ce",
+		"editor.foreground": "#CDD3DE",
+		"editorWhitespace.foreground": "#65737e",
+		"editor.lineHighlightBackground": "#65737e55",
+		"editor.selectionBackground": "#4f5b66"
+	},
+	"name": "JN Oceanic Next"
+}

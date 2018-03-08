@@ -1,0 +1,22 @@
+{
+    "name": "jn-oceanic-next",
+    "displayName": "JN Oceanic Next",
+    "description": "Personal VS Code Color Theme",
+    "version": "0.0.1",
+    "publisher": "jcmnunes",
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "JN Oceanic Next",
+                "uiTheme": "vs-dark",
+                "path": "./themes/JN Oceanic Next-color-theme.json"
+            }
+        ]
+    }
+}
