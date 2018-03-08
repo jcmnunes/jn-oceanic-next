@@ -6,7 +6,9 @@
 		"editor.foreground": "#CDD3DE",
 		"editorWhitespace.foreground": "#65737e",
 		"editor.lineHighlightBackground": "#65737e55",
-		"editor.selectionBackground": "#4f5b66"
+		"editor.selectionBackground": "#4f5b66",
+		"editorWarning.foreground": "#f3c863",
+		"statusBar.background": "#333"
 	},
 	"name": "JN Oceanic Next"
 }
