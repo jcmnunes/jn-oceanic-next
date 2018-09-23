@@ -7,7 +7,12 @@
   "colors": {
     "editor.background": "#1C2022",
     "editor.foreground": "#E0E0E0",
-    "editor.selectionBackground": "#ADD6FF26"
+    "editor.selectionBackground": "#ADD6FF26",
+    "editorCursor.foreground": "#c0c5ce",
+    "editorWhitespace.foreground": "#65737e",
+    "editor.lineHighlightBackground": "#65737e55",
+    "editorWarning.foreground": "#f3c863",
+    "statusBar.background": "#333"
   },
   "tokenColors": [
     {
