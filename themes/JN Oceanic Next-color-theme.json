@@ -34,7 +34,7 @@
       "name": "Entity Name Type",
       "scope": ["entity.name.type"],
       "settings": {
-        "foreground": "#ffd399"
+        "foreground": "#FAC863"
       }
     },
     {
@@ -181,7 +181,7 @@
       "name": "String Regexp Source Ruby Embedded",
       "scope": ["string.regexp source.ruby.embedded"],
       "settings": {
-        "foreground": "#ffd399"
+        "foreground": "#FAC863"
       }
     },
     {
@@ -226,7 +226,7 @@
       "name": "Punctuation Definition Bold",
       "scope": ["punctuation.definition.bold"],
       "settings": {
-        "foreground": "#ffd399",
+        "foreground": "#FAC863",
         "fontStyle": "bold"
       }
     },
@@ -260,7 +260,7 @@
       "name": "Support Class",
       "scope": ["support.class"],
       "settings": {
-        "foreground": "#ffd399"
+        "foreground": "#FAC863"
       }
     },
     {
@@ -295,7 +295,7 @@
       "name": "Entity Name Class,entity Name Type Class",
       "scope": ["entity.name.class", "entity.name.type.class"],
       "settings": {
-        "foreground": "#ffd399"
+        "foreground": "#FAC863"
       }
     },
     {
@@ -330,7 +330,7 @@
       "name": "Meta Class",
       "scope": ["meta.class"],
       "settings": {
-        "foreground": "#ffd399"
+        "foreground": "#FAC863"
       }
     },
     {
@@ -562,14 +562,14 @@
       "name": "Source Java Storage Modifier Import",
       "scope": ["source.java storage.modifier.import"],
       "settings": {
-        "foreground": "#ffd399"
+        "foreground": "#FAC863"
       }
     },
     {
       "name": "Source Java Storage Type",
       "scope": ["source.java storage.type"],
       "settings": {
-        "foreground": "#ffd399"
+        "foreground": "#FAC863"
       }
     },
     {
@@ -1136,7 +1136,7 @@
         "meta.array.literal.tsx variable"
       ],
       "settings": {
-        "foreground": "#ffd399"
+        "foreground": "#FAC863"
       }
     },
     {
@@ -1313,7 +1313,7 @@
       "name": "[VSCODE-CUSTOM] CSharp Storage Type",
       "scope": "storage.type.cs",
       "settings": {
-        "foreground": "#ffd399"
+        "foreground": "#FAC863"
       }
     },
     {
@@ -1376,7 +1376,7 @@
       "name": "[VSCODE-CUSTOM] Java Storage Type Primitive Array",
       "scope": "storage.type.primitive.array.java",
       "settings": {
-        "foreground": "#ffd399"
+        "foreground": "#FAC863"
       }
     },
     {
