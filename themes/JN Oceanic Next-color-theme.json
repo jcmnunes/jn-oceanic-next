@@ -76,7 +76,7 @@
       "name": "Keyword Other Unit",
       "scope": ["keyword.other.unit"],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F99157"
       }
     },
     {
@@ -104,14 +104,14 @@
       "name": "Constant",
       "scope": ["constant"],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F99157"
       }
     },
     {
       "name": "Constant Variable",
       "scope": ["constant.variable"],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F99157"
       }
     },
     {
@@ -125,7 +125,7 @@
       "name": "Constant Numeric",
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F99157"
       }
     },
     {
@@ -316,7 +316,8 @@
       "name": "Entity Other Attribute Name",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#61AFEF",
+        "fontStyle": "italic"
       }
     },
     {
@@ -358,7 +359,7 @@
       "name": "Meta Link",
       "scope": ["meta.link"],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F99157"
       }
     },
     {
@@ -424,7 +425,7 @@
       "name": "Markup Bold",
       "scope": ["markup.bold"],
       "settings": {
-        "foreground": "#D19A66",
+        "foreground": "#F99157",
         "fontStyle": "bold"
       }
     },
@@ -482,7 +483,7 @@
       "name": "Markup Quote",
       "scope": ["markup.quote"],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F99157"
       }
     },
     {
@@ -673,7 +674,7 @@
       "name": "Source Python Variable Parameter",
       "scope": ["source.python variable.parameter"],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F99157"
       }
     },
     {
@@ -708,7 +709,7 @@
       "name": "[VSCODE-CUSTOM] Support Type Property Name",
       "scope": "support.type.property-name",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#FAC863"
       }
     },
     {
@@ -722,7 +723,7 @@
       "name": "[VSCODE-CUSTOM] Support Constant",
       "scope": "support.constant",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F99157"
       }
     },
     {
@@ -922,7 +923,7 @@
         "meta.array-binding-pattern-variable.tsx variable.other.readwrite.tsx"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F99157"
       }
     },
     {
@@ -944,7 +945,7 @@
         "variable.other.constant.property.tsx"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F99157"
       }
     },
     {
@@ -1029,7 +1030,7 @@
         "variable.other.constant.tsx"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F99157"
       }
     },
     {
@@ -1167,7 +1168,7 @@
         "variable.other.constant.object.tsx"
       ],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F99157"
       }
     },
     {
@@ -1229,14 +1230,14 @@
       "name": "[VSCODE-CUSTOM] Python Constants",
       "scope": "source.python constant",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F99157"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Python Placeholder Character",
       "scope": "constant.character.format.placeholder.other.python storage",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F99157"
       }
     },
     {
@@ -1250,7 +1251,7 @@
       "name": "[VSCODE-CUSTOM] Python Meta Function Parameters",
       "scope": "meta.function.parameters.python",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F99157"
       }
     },
     {
@@ -1341,14 +1342,14 @@
       "name": "[VSCODE-CUSTOM] Css Support Constant Value",
       "scope": "support.constant.property-value.css",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#F99157"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Css Punctuation Definition Constant",
       "scope": "punctuation.definition.constant.css",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F99157"
       }
     },
     {
@@ -1362,7 +1363,7 @@
       "name": "[VSCODE-CUSTOM] Sass Punctuation for constants",
       "scope": "punctuation.definition.constant.scss",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F99157"
       }
     },
     {
@@ -1404,7 +1405,7 @@
       "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition Bold",
       "scope": "punctuation.definition.bold.markdown",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F99157"
       }
     },
     {
@@ -1478,7 +1479,7 @@
       "name": "[VSCODE-CUSTOM] Ruby Other Constant Variable",
       "scope": "variable.other.constant.ruby",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#F99157"
       }
     },
     {
