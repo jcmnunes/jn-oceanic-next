@@ -626,6 +626,13 @@
       }
     },
     {
+      "name": "Source Js String Unquoted",
+      "scope": ["source.js string.unquoted.js"],
+      "settings": {
+        "foreground": "#E06C75"
+      }
+    },
+    {
       "name": "Source Json Meta Structure Dictionary Json > String Quoted Json > Punctuation String",
       "scope": [
         "source.json meta.structure.dictionary.json > string.quoted.json > punctuation.string"
