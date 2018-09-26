@@ -1,9 +1,9 @@
 {
-  "name": "Stockholm Theme",
-  "author": "Ludvig Lundgren",
-  "maintainers": ["Ludvig Lundgren <hello@ludviglundgren.se>"],
+  "name": "Sand Ocean",
+  "author": "Jose Nunes",
+  "maintainers": ["Jose Nunes <jn@josenunes.xyz>"],
   "type": "dark",
-  "semanticClass": "stockholm-theme",
+  "semanticClass": "sandocean-theme",
   "colors": {
     "editor.background": "#1C2022",
     "editor.foreground": "#E0E0E0",
@@ -69,7 +69,7 @@
       "name": "Keyword Other Special Method",
       "scope": ["keyword.other.special-method"],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#66b9f4"
       }
     },
     {
@@ -219,7 +219,7 @@
         "punctuation.definition.identity"
       ],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#66b9f4"
       }
     },
     {
@@ -281,14 +281,14 @@
       "name": "Support Function Any Method",
       "scope": ["support.function.any-method"],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#66b9f4"
       }
     },
     {
       "name": "Entity Name Function",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#66b9f4"
       }
     },
     {
@@ -302,7 +302,7 @@
       "name": "Entity Name Section",
       "scope": ["entity.name.section"],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#66b9f4"
       }
     },
     {
@@ -316,7 +316,7 @@
       "name": "Entity Other Attribute Name",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#61AFEF",
+        "foreground": "#66b9f4",
         "fontStyle": "italic"
       }
     },
@@ -324,7 +324,7 @@
       "name": "Entity Other Attribute Name Id",
       "scope": ["entity.other.attribute-name.id"],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#66b9f4"
       }
     },
     {
@@ -366,7 +366,7 @@
       "name": "Meta Require",
       "scope": ["meta.require"],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#66b9f4"
       }
     },
     {
@@ -462,7 +462,7 @@
       "name": "Markup Heading Punctuation Definition Heading",
       "scope": ["markup.heading punctuation.definition.heading"],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#66b9f4"
       }
     },
     {
@@ -542,7 +542,7 @@
       "name": "Source Gfm Link Entity",
       "scope": ["source.gfm link entity"],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#66b9f4"
       }
     },
     {
@@ -1314,7 +1314,7 @@
       "name": "[VSCODE-CUSTOM] CSharp Property",
       "scope": "entity.name.variable.property.cs",
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#66b9f4"
       }
     },
     {
@@ -1472,7 +1472,7 @@
         "string.other.link.description.markdown"
       ],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#66b9f4"
       }
     },
     {
