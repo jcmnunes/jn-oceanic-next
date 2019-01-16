@@ -6,6 +6,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 ### Changed
 - Colors for gitDecoration setting (changes color of files in the explorer)
+- Add icon
 
 
 ## [2.0.0] - 2019-01-16
