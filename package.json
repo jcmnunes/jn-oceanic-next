@@ -5,6 +5,7 @@
     "version": "1.5.0",
     "publisher": "jcmnunes",
     "repository": "https://github.com/jcmnunes/jn-oceanic-next",
+    "icon": "images/icon.jpg",
     "engines": {
         "vscode": "^1.8.0"
     },
